@@ -1,3 +1,3 @@
 # learntoGit
-# learntoGit - adding 1st change
+# learntoGit - adding 1st change - hotfix
 # learntoGit - adding more changes
