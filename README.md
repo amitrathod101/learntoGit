@@ -1,4 +1,4 @@
-# learntoGit
+# learntoGit - change from browser
 # learntoGit - adding 1st change - hotfix - adding a change for main branch merge conflict
 # learntoGit - adding 1st change - creating merge conflict in testing
 # learntoGit - adding more changes
